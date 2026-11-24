@@ -2,7 +2,9 @@
 
 RootDown framework for beet-root detection on edge devices
 
-Coming soon!
+Images and annotations of the RootDown benchmark are available [here](https://zenodo.org/records/23558588).
+
+The source code will be available here soon!
 
 ## License
 
